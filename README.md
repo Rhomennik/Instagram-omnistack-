@@ -1,6 +1,6 @@
 # Instagram-omnistack
 > Copia pirata do instagram ;P.
-Post em tempo real, Like.
+Post em tempo real && Like.
 
 ![](Instagram-v2.gif)
 
